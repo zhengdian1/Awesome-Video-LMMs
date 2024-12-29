@@ -32,7 +32,6 @@ Within this repository, we collect works that aim to show the power of LMMs in t
 + [PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos](https://arxiv.org/abs/2412.01800) (2024-12-02) 
   [![Code](https://img.shields.io/github/stars/PhysGame/PhysGame.svg?style=social&label=Official)](https://github.com/PhysGame/PhysGame) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physgame.github.io/)
-  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/BestWishYsh/ChronoMagic-Bench)
     ><i>Note: video game understanding</i>
 
 <a name="1.2."></a>
