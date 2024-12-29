@@ -27,30 +27,36 @@ Within this repository, we collect works that aim to show the power of LMMs in t
 ## 1. Real-world Video Understanding
 
 <a name="1.1."></a>
-### 1.1. Tuning
 
+### 1.1. Tuning
 + [PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos](https://arxiv.org/abs/2412.01800) (2024-12-02) 
   [![Code](https://img.shields.io/github/stars/PhysGame/PhysGame.svg?style=social&label=Official)](https://github.com/PhysGame/PhysGame) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physgame.github.io/)
     ><i>Note: video game understanding</i>
 
 <a name="1.2."></a>
-### 1.2. Tuning-free
 
+### 1.2. Tuning-free
 + [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2410.05363) (2024-10-07)
   [![Code](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Official)](https://github.com/OpenGVLab/PhyGenBench) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
   ><i>Note: physics understanding in Generated video introduced</i>
 
 <a name="2."></a>
+
 ## 2. AI-generated Video Understanding
 
 <a name="2.1."></a>
+
 ### 2.1. Tuning
++ [VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252) (2024-06-21)
+[![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore)](https://github.com/TIGER-AI-Lab/VideoScore)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/TIGER-Lab/VideoFeedback)
+  ><i>Note: human perspective alignment with score only</i>
 
 <a name="2.2."></a>
-### 2.2. Tuning-free
 
+### 2.2. Tuning-free
 + [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2410.05363) (2024-10-07)
   [![Code](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Official)](https://github.com/OpenGVLab/PhyGenBench) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
