@@ -32,7 +32,21 @@ Within this repository, we collect works that aim to show the power of LMMs in t
 + [PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos](https://arxiv.org/abs/2412.01800) (2024-12-02) 
   [![Code](https://img.shields.io/github/stars/PhysGame/PhysGame.svg?style=social&label=Official)](https://github.com/PhysGame/PhysGame) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physgame.github.io/)
-    ><i>Note: video game understanding</i>
+  ><i>Note: video game understanding</i>
+
++ [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326) (2024-10-26) 
+  [![Code](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Official)](https://github.com/LLaVA-VL/LLaVA-NeXT) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)
+  ><i>Note: general video understanding</i>
+
++ [Video Instruction Tuning With Synthetic Data](https://arxiv.org/abs/2410.02713) (2024-10-04) 
+  [![Code](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Official)](https://github.com/LLaVA-VL/LLaVA-NeXT) 
+  ><i>Note: general video understanding, surprising performance!</i>
+
++ [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) (2024-10-03) 
+  [![Code](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Official)](https://github.com/QwenLM/Qwen2-VL) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qwenlm.github.io/blog/qwen2-vl/)
+  ><i>Note: general video understanding</i>
 
 <a name="1.2."></a>
 
